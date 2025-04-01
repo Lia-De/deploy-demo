@@ -1,6 +1,6 @@
 {
   "name": "deploy-demo",
-  "homepage": "https://lia-de.github.io/deploy-demo/",
+
   "private": true,
   "version": "0.0.0",
   "type": "module",
